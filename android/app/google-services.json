@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588607490022",
+    "project_id": "monies-62ecd",
+    "storage_bucket": "monies-62ecd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588607490022:android:3b8de0934fe9ff7b6fb827",
+        "android_client_info": {
+          "package_name": "com.treasurix.monies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm6eSjPkJH61j1OkdiMK24UV_1ot2jFCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
